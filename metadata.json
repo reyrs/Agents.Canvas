@@ -1,0 +1,6 @@
+{
+  "name": "AI Multi-Agent Marketing Workspace",
+  "description": "An interactive, multi-agent AI marketing campaign builder with a visual drag-and-drop canvas, custom agent workflows, campaign generation using Gemini, and persistent asset tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
